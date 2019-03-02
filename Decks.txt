@@ -1,21 +1,25 @@
 Water Deck: 
-Water deck has no no more blank cards. The idea is that you found your water supply and you go and get water
-+1 water
-Poison
+Water deck has no no more blank cards. The idea is that you found your water supply and you go and get water.
+Players can use lumber to start a fire to boil their water which negates the effect of poisoned water.
+
++1 water (Lake image)
+Poison  (same lake with dead fish? dead animals?)
+
 
 Food Deck:
+The character goes out and searches for food. On a good day they find some fish but most of the time they find misc bugs. On bad days they get nothing. (should this nothing be something that can be used? it probably should be)
 
-+2 food - Morsel
-+1 food - Scraps
-Blank card
-Poison
++2 food (Fish)
++1 food (Grub)
+Blank card (Pile of bones? put some human bones in the pile )
+Poison (rotting flesh)
 
 
 
 Forage Deck:
 Lumber
-Water bottle : +1 water when getting water
-Pan : +2 water when getting water
+Water bottle : +2 water when getting water
+Pan : +3 water when getting water
 
 
 The conch: destroy the conch, You gain the ability to 
