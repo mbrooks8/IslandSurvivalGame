@@ -1,0 +1,41 @@
+
+The Butch:
+Ability: Entering combat does not take action points
+Action Points: 4
+Food: 3
+Water: 1
+
+
+The Child:
+Ability - Once per turn may reach into another player’s pockets and may take one of their items.
+Action Points: 2
+Food: 1
+Water: 1
+
+The Caretaker: 
+As long as the caretaker is alive, the child does not require food or water. If the child dies, lose all action points next turn.
+Action Points: 3
+Food: 2
+Water: 1
+
+The Medic:
+Use one wood to Restore 1 health to another player per turn.
+Action Points: 5
+Food: 1
+Water: 3
+
+The Chef:
+Poisoned food becomes +1 food when eaten by the sushi chef. Place the used poisoned food card in a separate pile other than the regular discard pile. The Chef may take one poisoned food out of the discard pile each day.
+Action Points: 3
+Food: 2
+Water:1
+
+The Fisher? Food affinity:
+First draw of food (per turn?) does not require usage of action points
+
+Water affinity:
+First draw of water (per turn?) does not require usage of action points
+
+The Builder? Shelter affinity:
+First draw of shelter (per turn?) does not require usage of action points
+

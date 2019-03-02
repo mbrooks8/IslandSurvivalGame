@@ -1,0 +1,11 @@
+Add more cards to the water and food decks ? does not have to be +1 or +2 could be more blank and poisons. Players are running out of food and water on turn 8. For now keep the numbers the same but add more stuff in the forrage deck and increase the number of events. See what happens to the survivability after that.
+
+ -----------
+   Ideas:
+  ----------
+Craftables:
+Fire (Stick + Stick + lumber)
+Fire upgrade (Stone x3)
+Shelter (wood)
+Water source
+Fishing rod (stick + twine)

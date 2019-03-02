@@ -1,0 +1,6 @@
+Objective cards:
+The leader: Reveal your objective, gain additional action points if all survivors are alive. You must leave the island with all players. For each player that dies lose 2 health.
+
+The bad guy: Gain additional action points for each dead survivor. If the survivor is in the game  
+
+The hermit: Be the last person left on the island and do not leave. You may not reveal your objective card.

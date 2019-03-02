@@ -1,0 +1,14 @@
+Event Cards:
+Event cards will be written like diaries from the survivors
+
+Calm night - The night was calm, we slept through the night with no issues. I wish every night could be this way.  (Nothing happens)
+Light rain - It rained last night. I could feel a few drops as the water seeped through gaps in the roof. (Put one water card from the water deck into the communal water supply.)
+Night predator - We could hear something rustling around our camp last night. I peeked out and swear I saw two glowing yellow eyes. (Drawing from the food pile costs two action points for everyone tomorrow,)
+Bright idea - We had a good discussion about how to improve the shelter. If we had the right resources, we could try it out. (Add one shelter from the shelter deck for each surviving player/Upgrade the shelter for one less resource tomorrow.)
+Fish swarm - It rained all night again. Our fire went out. On the bright side, we woke up to loud splashing in the river. Dozens of fish are swimming through it. (Catch double food tomorrow,[ if fishing]).
+Fire! - The fire surged last night and caught the trees and our shelter on fire! We rushed to put it out, but half of our shelter burned down. We need to fix it! (Destroy half, rounding up, of the communal shelter supply)
+An Unexpected Guest - We found the craziest thing this morning. A turtle found its way into our water supply! It's a shame that we'll have to eat him, he's kinda cute. Builder called dibs on his shell. (Put one food card from the food deck into the communal food supply. Shuffle 2 poisoned waters from the discard pile into the water deck if they exist there.)
+Mosquitos - The bugs were relentless last night. Everyone is covered in little red bumps. Some of us are having a minor allergic reaction. (Everyone takes 1 damage.)
+Chupacabra - A sickly looking dog walked into our camp last evening. We tried to catch it or tame it, but it escaped. When we checked our food supplies today, we found them ravished. (Destroy half, rounding up, of the communal food supply)
+Lightning - It was a thunderstorm last night. The wind howled, the skies roared, and the air cracked with electricity. It was so cold and frightening, no one could sleep. (Everyone takes 1 damage.)
+Boat - Off in the distance we saw a large boat pass by! We lit our fires the best we could  to try to call them over. (if a player has at least 3 wood/shelter cards, that player may select someone, including themselves, to leave the island.)

@@ -1,0 +1,23 @@
+Water Deck: 
+Water deck has no no more blank cards. The idea is that you found your water supply and you go and get water
++1 water
+Poison
+
+Food Deck:
+
++2 food - Morsel
++1 food - Scraps
+Blank card
+Poison
+
+
+
+Forage Deck:
+Lumber
+Water bottle : +1 water when getting water
+Pan : +2 water when getting water
+
+
+The conch: destroy the conch, You gain the ability to 
+
+Use lumber to build shelter, or start a fire. Fire is built to purify poisoned water. 
