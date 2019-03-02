@@ -20,7 +20,7 @@ Forage Deck:
 Lumber
 Water bottle : +2 water when getting water
 Pan : +3 water when getting water
-
+Spear : +1 to damage and +1 to food
 
 The conch: destroy the conch, You gain the ability to 
 

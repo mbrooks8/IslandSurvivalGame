@@ -1,4 +1,13 @@
 Objective cards:
+Objective cards are modifiers to the characters giving them a bit more depth
+
+The cannibal: This is my chance, I need to finally feed my desire to consume human flesh before I leave this island. (this description sucks ass)
+(I want this to have the feeling that this person is now a canibal and they are trying to justify that their need for eating another person before leaving the island.)
+(add a rule to allow players to eat eachother???)
+
+
+THe schizophrenic: Oh we are finally here! Dont worry sarah, we will make it though together. (This character must feed their imaginary friend before themselves 1 food 1 water)
+
 The leader: Reveal your objective, gain additional action points if all survivors are alive. You must leave the island with all players. For each player that dies lose 2 health.
 
 The bad guy: Gain additional action points for each dead survivor. If the survivor is in the game  
