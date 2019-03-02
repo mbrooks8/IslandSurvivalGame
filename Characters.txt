@@ -39,3 +39,4 @@ First draw of water (per turn?) does not require usage of action points
 The Builder? Shelter affinity:
 First draw of shelter (per turn?) does not require usage of action points
 
+ 
