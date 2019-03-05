@@ -1,50 +1,50 @@
 {
-  "characters": [
-    {
-      "name": "The Butch",
-      "ability": "Entering combat does not take action points",
-      "stats": {
-        "actionPoints": 4,
-        "food": 3,
-        "water": 1
-      }
-    },
-    {
-      "name": "The Child",
-      "ability": "Once per turn may reach into another player’s pockets and may take one of their items.",
-      "stats": {
-        "actionPoints": 2,
-        "food": 1,
-        "water": 1
-      }
-    },
-    {
-      "name": "The Caretaker",
-      "ability": "As long as the caretaker is alive, the child does not require food or water. If the child dies, lose all action points next turn.",
-      "stats": {
-        "actionPoints": 3,
-        "food": 2,
-        "water": 1
-      }
-    },
-    {
-      "name": "The Medic",
-      "ability": "Use one wood to Restore 1 health to another player per turn.",
-      "stats": {
-        "actionPoints": 5,
-        "food": 1,
-        "water": 3
-      }
-    },
-    {
-      "name": "The Chef",
-      "ability": "May take 2 food cards from the discard pile to feed 1 player 1 food. Then exile those food cards.",
-      "stats": {
-        "actionPoints": 3,
-        "food": 2,
-        "water": 1
-      }
-    },
-    
-  ]
+		"characters": [
+				{
+						"name": "The Butch",
+						"ability": "Entering combat does not take action points",
+						"stats": {
+								"actionPoints": 4,
+								"food": 3,
+								"water": 1
+						}
+				},
+				{
+						"name": "The Child",
+						"ability": "Once per turn may reach into another player’s pockets and may take one of their items.",
+						"stats": {
+								"actionPoints": 2,
+								"food": 1,
+								"water": 1
+						}
+				},
+				{
+						"name": "The Caretaker",
+						"ability": "As long as the caretaker is alive, the child does not require food or water. If the child dies, lose all action points next turn.",
+						"stats": {
+								"actionPoints": 3,
+								"food": 2,
+								"water": 1
+						}
+				},
+				{
+						"name": "The Medic",
+						"ability": "Use one wood to Restore 1 health to another player per turn.",
+						"stats": {
+								"actionPoints": 5,
+								"food": 1,
+								"water": 3
+						}
+				},
+				{
+						"name": "The Chef",
+						"ability": "May take 2 food cards from the discard pile to feed 1 player 1 food. Then exile those food cards.",
+						"stats": {
+								"actionPoints": 3,
+								"food": 2,
+								"water": 1
+						}
+				},
+
+		]
 }

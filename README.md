@@ -13,6 +13,8 @@ Same thing applies to the food. There are more poisoned food cards but you dont 
 Water deck has no no more blank cards. The idea is that you found your water supply and you go and get water.
 Players can use lumber to start a fire to boil their water which negates the effect of poisoned water.
 
+Use lumber to build shelter, or start a fire. Fire is built to purify poisoned water. 
+
 ## Introduction
 You and some survivors find yourselves washed up on the beach of an island. Your goal is to survive with these strangers until help arrives. Though your wit, you must get off this island. This game is played over an unknown number of rounds but ends when there are no remaining survivors on the island. The players who can successfully get off the island win.
 

@@ -1,0 +1,78 @@
+{
+		"decks": [
+				{
+						"name": "Water",
+						"cards": 
+						[
+								{
+										"name": "clean",
+										"effect": 1,
+										"quantity": 30
+								},
+								{
+										"name": "dirty",
+										"effect": -1,
+										"quantity": 30
+								}
+						]
+				},
+				{
+						"name": "Food",
+						"cards": 
+						[
+								{
+										"name": "Fish",
+										"effect": 2,
+										"quantity": 30
+								},
+								{
+										"name": "Grub",
+										"effect": 1,
+										"quantity": 30
+								},
+								{
+										"name": "Bones",
+										"effect": 0,
+										"quantity": 30
+								},
+								{
+										"name": "Rot",
+										"effect": "1+ food -1 health",
+										"quantity": 30
+								}
+						]
+				},
+				{
+						"name": "Forrage",
+						"cards": 
+						[
+								{
+										"name": "lumber",
+										"quantity": 30
+								},
+								{
+										"name": "Water Bottle",
+										"effect": "Holds 2 water",
+										"quantity": 30
+								},
+								{
+										"name": "Pan",
+										"effect": "Holds 3 water",
+										"quantity": 30
+								},
+								{
+										"name": "Spear",
+										"effect": "+1 damage +1 to food",
+										"quantity": 30
+								},
+						]
+				}
+
+		]
+}
+
+
+
+
+
+
