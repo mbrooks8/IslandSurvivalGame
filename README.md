@@ -13,7 +13,10 @@ Same thing applies to the food. There are more poisoned food cards but you dont 
 Water deck has no no more blank cards. The idea is that you found your water supply and you go and get water.
 Players can use lumber to start a fire to boil their water which negates the effect of poisoned water.
 
-Use lumber to build shelter, or start a fire. Fire is built to purify poisoned water. 
+Use lumber to build shelter, or start a fire. Fire is built to purify poisoned water. (THIS HAPPENS DURING THE MAIN PHASE OF THE GAME)
+
+Player cards will have tokens for when they do certain actiaons( THere is a fire token that they can place on 3 pieces of lumber to start a fire for the day.)
+
 
 ## Introduction
 You and some survivors find yourselves washed up on the beach of an island. Your goal is to survive with these strangers until help arrives. Though your wit, you must get off this island. This game is played over an unknown number of rounds but ends when there are no remaining survivors on the island. The players who can successfully get off the island win.
@@ -40,9 +43,11 @@ In a clockwise circle starting from the youngest character, each player may pull
 
 ### Consume resources 
 At the end of each day, the players will gather together to eat and drink. You must consume at least the amount of food and water points listed on your character card. You are able to consume food or water from any combination of cards that are in your hand or in the community pile (see the Daily Damage section for resolving poison and the difference between the collected cards and your character card). Any leftover cards may added to your hand as long as the number of cards in your hand does not exceed the number of stars on your character card; remaining and used cards are placed face up on the board’s discard pile.
+
 ### Event trigger 
 Reveal the top card from the event deck and perform the action that is stated on the card.
 Night: All the players will go to sleep. Draw a card from the event deck and do what the card says. Then lose 1 durability to the shelter. If there is no shelter to remove durability from, everyone takes 1 damage.
+
 ## Combat
 Combat works during the timed gathering phase.  To engage in combat the, attacking player will be required to use 1 of a character’s stars(*) and can only happen once per day. Players who wish to engage in combat can use more action points to deal more damage. The defending player may respond by using their action points to defend themselves. The winner of the fight may take one item from the loser’s hand.
 
