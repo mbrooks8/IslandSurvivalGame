@@ -1,5 +1,17 @@
 # Island Survival Game
 IslandSurvivalGame
+## Change Log (These Need To Be Put Into The Rules)
+Poisoned food and water are just +1 that also makes you lose a health. It makes survival eaiser
+
+When a player goes to drink water, it takes 1 action to drink all the water they need. 1 action to fill a water bottle, etc. Getting food is still 1 action per card.
+
+Because drinking water now only takes 1 action there are ALOT more poisoned water cards in the deck. (like almost 60% poisoned) The new idea is that you can drink from the pool but have a high chance of getting hurt doing 
+so. It is better to boil your water then drink it. THis requires that you went out to get a water bottle, and lumber.
+
+Same thing applies to the food. There are more poisoned food cards but you dont just lose health eating a poisoned food card anymore. You use the card, gain the food but also take the damage. This damage is also midigated by cooking the food raising the value of the food by 1. (+1 food becomes +2)
+
+Water deck has no no more blank cards. The idea is that you found your water supply and you go and get water.
+Players can use lumber to start a fire to boil their water which negates the effect of poisoned water.
 
 ## Introduction
 You and some survivors find yourselves washed up on the beach of an island. Your goal is to survive with these strangers until help arrives. Though your wit, you must get off this island. This game is played over an unknown number of rounds but ends when there are no remaining survivors on the island. The players who can successfully get off the island win.
@@ -38,7 +50,7 @@ Ex: Austin wishes to attack Derrick. In order to attack, Austin must use 2 actio
  The attacking player(s) will have the ability to use any of the cards that are in their hand to modify their ability to deal damage, then the defending player may do the same.
 
 
-Daily Damage
+## Daily Damage
     You lose 1 health for each food or drink you are unable to consume.
 As you eat and drink, you may reveal poison cards which will cause you to take an extra damage:
 
@@ -50,7 +62,7 @@ After everyone consumes resources, reveal an event card and all the players will
 Lose health (if any is specified) on the revealed event card.
 Lose 1 health if there is no shelter that is standing at the end of the night.
 
-End of the Game
+## End of the Game
 The game ends when there are no more survivors left on the island. Each surviving player reveals their secret objective and those who have completed them wins.
 
 
