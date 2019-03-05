@@ -2,7 +2,7 @@ Island survival game
 4 players 45 min - 1 hour play time
 
 Introduction
-You and some survivors find yourselves washed up on the beach of an island. Your goal is to survive with these strangers until help arrives. Though your wit, you will try to get off this island while completing your secret objective. This game is played over an unknown number of rounds but ends when there are no remaining survivors on the island. The players who can successfully get off the island win.
+You and some survivors find yourselves washed up on the beach of an island. Your goal is to survive with these strangers until help arrives. Though your wit, you must get off this island. This game is played over an unknown number of rounds but ends when there are no remaining survivors on the island. The players who can successfully get off the island win.
 
 Setup
 
